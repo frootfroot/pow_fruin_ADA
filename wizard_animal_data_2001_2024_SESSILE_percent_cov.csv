@@ -1,0 +1,1487 @@
+date,site,exposure,group_name,data_collectors,transect_number,transect_number_2024,tidal_height,quadrat_size,photos,Cover_deadbarnacle,Abietinaria_spp,Anthopleura_elegantissima,Anthopleura_xanthogrammica,Balanus_crenatus,Balanus_glandula,C_finmarkiensis,Chthamalus_dalli,Dead_mussel,Dendrobeania_lichenoides,Encrusting_colonial_ascidians,Halichondria_spp,Haliclona_spp,Hymenamphiastra_cyanocrypta,Membranipora_membranacea,Mitella_polymerus,Mytilus_edulis,Mytilus_californianus,Ophilitaspongia_pennata,Pycnoclavella_stanleyi,Schizoporella_uncornis,Semibalanus_cariosus,Sertularella_spp
+2001-08-01,Wizard,exposed,not available,not available,1,,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,5,0,0
+2001-08-01,Wizard,exposed,not available,not available,1,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,1,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,1,NA,2,0.0625,,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,87,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,1,NA,2.5,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,95,0,0,0,0,2,0
+2001-08-01,Wizard,exposed,not available,not available,1,NA,3,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,9,0
+2001-08-01,Wizard,exposed,not available,not available,1,NA,3.5,0.0625,,0,0,0,0,0,13,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,2,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,4,0,0
+2001-08-01,Wizard,exposed,not available,not available,2,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,1,0,0,2,0
+2001-08-01,Wizard,exposed,not available,not available,2,NA,1.5,0.0625,,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,0,55,0,0,0,0,2,0
+2001-08-01,Wizard,exposed,not available,not available,2,NA,2,0.0625,,1,1,6,0,0,0,1,0,1,1,1,0,1,1,0,1,55,0,0,0,0,9,0
+2001-08-01,Wizard,exposed,not available,not available,2,NA,2.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,2,4,76,0,0,0,13,0
+2001-08-01,Wizard,exposed,not available,not available,2,NA,3,0.0625,,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,2,NA,3.5,0.0625,,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,3,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,0
+2001-08-01,Wizard,exposed,not available,not available,3,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,3,NA,1.5,0.0625,,0,0,1,5,0,0,0,0,0,0,0,0,2,0,0,0,88,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,3,NA,2,0.0625,,0,0,4,7,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,2,0
+2001-08-01,Wizard,exposed,not available,not available,3,NA,2.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,5,0
+2001-08-01,Wizard,exposed,not available,not available,3,NA,3,0.0625,,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,4,0
+2001-08-01,Wizard,exposed,not available,not available,3,NA,3.5,0.0625,,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0
+2001-08-01,Wizard,exposed,not available,not available,4,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,0,5
+2001-08-01,Wizard,exposed,not available,not available,4,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,4,NA,1.5,0.0625,,1,1,0,2,0,0,1,0,1,1,1,0,0,1,0,0,89,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,4,NA,2,0.0625,,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,4,NA,2.5,0.0625,,0,0,1,0,0,18,0,0,0,0,0,0,0,0,0,1,15,46,0,0,0,25,0
+2001-08-01,Wizard,exposed,not available,not available,4,NA,3,0.0625,,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,10,0
+2001-08-01,Wizard,exposed,not available,not available,4,NA,3.5,0.0625,,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,5,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2001-08-01,Wizard,exposed,not available,not available,5,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,5,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,5,NA,2,0.0625,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,91,0,0,0,0,1,0
+2001-08-01,Wizard,exposed,not available,not available,5,NA,2.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,10,0
+2001-08-01,Wizard,exposed,not available,not available,5,NA,3,0.0625,,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,5,NA,3.5,0.0625,,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,6,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0
+2001-08-01,Wizard,exposed,not available,not available,6,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,6,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,6,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,6,NA,2.5,0.0625,,0,0,3,1,0,3,0,0,0,0,0,0,0,0,0,0,13,4,0,0,0,12,0
+2001-08-01,Wizard,exposed,not available,not available,6,NA,3,0.0625,,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,6,NA,3.5,0.0625,,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,7,NA,0.5,0.0625,,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,7,NA,1,0.0625,,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,7,NA,1.5,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0.5,0
+2001-08-01,Wizard,exposed,not available,not available,7,NA,2,0.0625,,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0.5,0
+2001-08-01,Wizard,exposed,not available,not available,7,NA,2.5,0.0625,,0,0,2,0,0,0.5,0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,2,0
+2001-08-01,Wizard,exposed,not available,not available,7,NA,3,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,20,3,0,0,0,20,0
+2001-08-01,Wizard,exposed,not available,not available,7,NA,3.5,0.0625,,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,8,NA,0.5,0.0625,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2001-08-01,Wizard,exposed,not available,not available,8,NA,1,0.0625,,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0
+2001-08-01,Wizard,exposed,not available,not available,8,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,8,NA,2,0.0625,,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,1,0
+2001-08-01,Wizard,exposed,not available,not available,8,NA,2.5,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,5,0
+2001-08-01,Wizard,exposed,not available,not available,8,NA,3,0.0625,,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,8,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,9,NA,0.5,0.0625,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3
+2001-08-01,Wizard,exposed,not available,not available,9,NA,1,0.0625,,1,1,0,0,2,0,1,0,1,1,1,0,0,1,0,0,15,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,9,NA,1.5,0.0625,,1,1,1,0,2,0,1,0,1,1,1,0,0,1,0,0,45,0,0,0,0,1,0
+2001-08-01,Wizard,exposed,not available,not available,9,NA,2,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,3,0
+2001-08-01,Wizard,exposed,not available,not available,9,NA,2.5,0.0625,,1,1,1,0,0,10,1,0,1,1,1,0,0,1,0,0,45,0,0,0,0,6,0
+2001-08-01,Wizard,exposed,not available,not available,9,NA,3,0.0625,,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,9,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+2001-08-01,Wizard,exposed,not available,not available,10,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,10,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,10,NA,1.5,0.0625,,0,0,1,9,0,0,0,1,0,0,0,0,0,0,0,0,62,0,0,0,0,1,1
+2001-08-01,Wizard,exposed,not available,not available,10,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,10,NA,2.5,0.0625,,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,10,0
+2001-08-01,Wizard,exposed,not available,not available,10,NA,3,0.0625,,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,10,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,11,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,11,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,0
+2001-08-01,Wizard,exposed,not available,not available,11,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,1,0
+2001-08-01,Wizard,exposed,not available,not available,11,NA,2,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,11,NA,2.5,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,10,0
+2001-08-01,Wizard,exposed,not available,not available,11,NA,3,0.0625,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,11,NA,3.5,0.0625,,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,12,NA,0.5,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+2001-08-01,Wizard,exposed,not available,not available,12,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,12,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,1,0,0,1,0
+2001-08-01,Wizard,exposed,not available,not available,12,NA,2,0.0625,,0,0,1,3,0,0,0,8,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,12,NA,2.5,0.0625,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,4,20,3,0,0,0,5,0
+2001-08-01,Wizard,exposed,not available,not available,12,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,7,0
+2001-08-01,Wizard,exposed,not available,not available,12,NA,3.5,0.0625,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,13,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,13,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,13,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,13,NA,2,0.0625,,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,9,0
+2001-08-01,Wizard,exposed,not available,not available,13,NA,2.5,0.0625,,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,1,36,0,0,0,0,5,0
+2001-08-01,Wizard,exposed,not available,not available,13,NA,3,0.0625,,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,3,12,0,0,0,0,20,0
+2001-08-01,Wizard,exposed,not available,not available,13,NA,3.5,0.0625,,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,14,NA,0.5,0.0625,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,63,0,1,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,14,NA,1,0.0625,,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,21,13,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,14,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,0,21,0
+2001-08-01,Wizard,exposed,not available,not available,14,NA,2,0.0625,,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0.5,72,0,0,0,0,0.5,0
+2001-08-01,Wizard,exposed,not available,not available,14,NA,2.5,0.0625,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,95,0,0,0,0,1,0
+2001-08-01,Wizard,exposed,not available,not available,14,NA,3,0.0625,,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,7,0
+2001-08-01,Wizard,exposed,not available,not available,14,NA,3.5,0.0625,,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,15,NA,0.5,0.0625,,0,0,0,0,0,21,0,0,0,0,0,5,0,0,0,0,48,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,15,NA,1,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,100,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,15,NA,1.5,0.0625,,0,0,5,0,0,4,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,10,0
+2001-08-01,Wizard,exposed,not available,not available,15,NA,2,0.0625,,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,8,0
+2001-08-01,Wizard,exposed,not available,not available,15,NA,2.5,0.0625,,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,3,0
+2001-08-01,Wizard,exposed,not available,not available,15,NA,3,0.0625,,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,exposed,not available,not available,15,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,1,NA,0.5,0.0625,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,1,NA,1,0.0625,,1,1,0,0,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,1,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,1,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,1,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,42,0
+2001-08-01,Wizard,sheltered,not available,not available,1,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0
+2001-08-01,Wizard,sheltered,not available,not available,1,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,2,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,2,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,2,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,2,NA,2,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,2,NA,2.5,0.0625,,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,2,NA,3,0.0625,,0,0,0,0,0,29,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,2,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,3,NA,0.5,0.0625,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,3,NA,1,0.0625,,0,0,0,0,1,6,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,3,NA,1.5,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,3,NA,2,0.0625,,0,0,1,0,0,7,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,3,NA,2.5,0.0625,,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,3,NA,3,0.0625,,0,0,0,0,0,44,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,3,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,4,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,4,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,4,NA,1.5,0.0625,,0,0,2,0,1,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,4,NA,2,0.0625,,1,1,0,0,0,17,1,0,1,1,1,0,0,1,0,0,75,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,4,NA,2.5,0.0625,,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,4,NA,3,0.0625,,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,4,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,5,NA,0.5,0.0625,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,5,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,5,NA,1.5,0.0625,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,5,NA,2,0.0625,,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,5,NA,2.5,0.0625,,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,5,NA,3,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,5,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,6,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,6,NA,1,0.0625,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,6,NA,1.5,0.0625,,0,0,2,0,40,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,6,NA,2,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,12,0
+2001-08-01,Wizard,sheltered,not available,not available,6,NA,2.5,0.0625,,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,6,NA,3,0.0625,,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,6,NA,3.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,7,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,7,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0
+2001-08-01,Wizard,sheltered,not available,not available,7,NA,1.5,0.0625,,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+2001-08-01,Wizard,sheltered,not available,not available,7,NA,2,0.0625,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,5,0
+2001-08-01,Wizard,sheltered,not available,not available,7,NA,2.5,0.0625,,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,7,NA,3,0.0625,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,7,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2001-08-01,Wizard,sheltered,not available,not available,8,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,8,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,8,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,8,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,8,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,8,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,8,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,9,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+2001-08-01,Wizard,sheltered,not available,not available,9,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,9,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,9,NA,2,0.0625,,0,0,4,0,0,7,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,9,NA,2.5,0.0625,,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,9,NA,3,0.0625,,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,9,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,10,NA,0.5,0.0625,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2001-08-01,Wizard,sheltered,not available,not available,10,NA,1,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2001-08-01,Wizard,sheltered,not available,not available,10,NA,1.5,0.0625,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,1,0
+2001-08-01,Wizard,sheltered,not available,not available,10,NA,2,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0
+2001-08-01,Wizard,sheltered,not available,not available,10,NA,2.5,0.0625,,0,0,1,0,0,58,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,10,NA,3,0.0625,,0,0,0,0,0,94,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,10,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,11,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0
+2001-08-01,Wizard,sheltered,not available,not available,11,NA,1,0.0625,,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,18,0,0,0,1,0,0
+2001-08-01,Wizard,sheltered,not available,not available,11,NA,1.5,0.0625,,1,1,2,2,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0.5,1,0
+2001-08-01,Wizard,sheltered,not available,not available,11,NA,2,0.0625,,0,0,0.5,0,0,2,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,11,NA,2.5,0.0625,,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,11,NA,3,0.0625,,0,0,0,0,0,70,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,11,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,12,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0
+2001-08-01,Wizard,sheltered,not available,not available,12,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0
+2001-08-01,Wizard,sheltered,not available,not available,12,NA,1.5,0.0625,,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,12,NA,2,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,12,NA,2.5,0.0625,,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,12,NA,3,0.0625,,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,12,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,13,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0
+2001-08-01,Wizard,sheltered,not available,not available,13,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,13,NA,1.5,0.0625,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,13,NA,2,0.0625,,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0.5,0
+2001-08-01,Wizard,sheltered,not available,not available,13,NA,2.5,0.0625,,0,0,0.5,0,0,35,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,13,NA,3,0.0625,,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,13,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,14,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,14,NA,1,0.0625,,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,14,NA,1.5,0.0625,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,2,0
+2001-08-01,Wizard,sheltered,not available,not available,14,NA,2,0.0625,,1,1,0,0,0,2,1,0,1,1,1,0,0,1,0,0,100,0,0,0,0,1,0
+2001-08-01,Wizard,sheltered,not available,not available,14,NA,2.5,0.0625,,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,14,NA,3,0.0625,,0,0,0,0,0,90,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,14,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,15,NA,0.5,0.0625,,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,15,NA,1,0.0625,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0
+2001-08-01,Wizard,sheltered,not available,not available,15,NA,1.5,0.0625,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,2,0
+2001-08-01,Wizard,sheltered,not available,not available,15,NA,2,0.0625,,0,0,0.5,0,0,4,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,15,NA,2.5,0.0625,,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,15,NA,3,0.0625,,0,0,0,0,2,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001-08-01,Wizard,sheltered,not available,not available,15,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,1,NA,0.5,0.0625,,0,0,0,0,0,0,0,5,0,0,0,0,0,0,10,0,0,0,0,0,15,0,5
+2002-08-01,Wizard,exposed,not available,not available,1,NA,1,0.0625,,0,0,0,0,0,0,0,70,0,0,0,2,0,0,5,0,0,0,3,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,1,NA,1.5,0.0625,,1,1,1,0,0,0,1,33,1,1,1,0,0,1,71,0,0,0,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,1,NA,2,0.0625,,0,0,2,0,0,1,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,1,NA,2.5,0.0625,,1,1,6,0,0,1,1,0,1,1,1,0,0,1,0,2,0,1,0,0,0,3,0
+2002-08-01,Wizard,exposed,not available,not available,1,NA,3,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,23,0,0,0,30,0
+2002-08-01,Wizard,exposed,not available,not available,1,NA,3.5,0.0625,,0,0,0,0,0,7,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,2,NA,0.5,0.0625,,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,2,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,2,NA,1.5,0.0625,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,2,NA,2,0.0625,,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,7,18,0,0,14,0
+2002-08-01,Wizard,exposed,not available,not available,2,NA,2.5,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,100,0,0,0,8,0
+2002-08-01,Wizard,exposed,not available,not available,2,NA,3,0.0625,,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,2,NA,3.5,0.0625,,0,0,0,0,0,42,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,3,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,3,NA,1,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,3,NA,1.5,0.0625,,1,1,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,3,NA,2,0.0625,,0,0,3,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,3,NA,2.5,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,60,0
+2002-08-01,Wizard,exposed,not available,not available,3,NA,3,0.0625,,0,0,2,0,0,80,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,3,NA,3.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,4,NA,0.5,0.0625,,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1
+2002-08-01,Wizard,exposed,not available,not available,4,NA,1,0.0625,,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,4,NA,1.5,0.0625,,0,0,4,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,4,NA,2,0.0625,,0,0,7,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,4,NA,2.5,0.0625,,0,0,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,4,NA,3,0.0625,,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,4,NA,3.5,0.0625,,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,5,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2002-08-01,Wizard,exposed,not available,not available,5,NA,1,0.0625,,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,5,NA,1.5,0.0625,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,5,NA,2,0.0625,,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,5,NA,2.5,0.0625,,0,0,6,0,0,0,0,0,0,0,0,1,1,0,0,1,4,7,0,0,0,5,0
+2002-08-01,Wizard,exposed,not available,not available,5,NA,3,0.0625,,0,0,1,0,0,10,0,0,0,0,0,0,0,0,0,0,3,15,0,0,0,25,0
+2002-08-01,Wizard,exposed,not available,not available,5,NA,3.5,0.0625,,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,6,NA,0.5,0.0625,,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4
+2002-08-01,Wizard,exposed,not available,not available,6,NA,1,0.0625,,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,6,NA,1.5,0.0625,,0,0,8,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,6,NA,2,0.0625,,0,0,10,0,0,0,0,1,0,0,0,0,0,0,0,1,40,10,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,6,NA,2.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,20,0
+2002-08-01,Wizard,exposed,not available,not available,6,NA,3,0.0625,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,6,NA,3.5,0.0625,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,7,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,7,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,7,NA,1.5,0.0625,,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,7,NA,2,0.0625,,1,1,7,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,7,NA,2.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,100,0,0,0,23,0
+2002-08-01,Wizard,exposed,not available,not available,7,NA,3,0.0625,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,30,0
+2002-08-01,Wizard,exposed,not available,not available,7,NA,3.5,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,8,NA,0.5,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,8,NA,1,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+2002-08-01,Wizard,exposed,not available,not available,8,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,8,NA,2,0.0625,,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,8,NA,2.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,10,0
+2002-08-01,Wizard,exposed,not available,not available,8,NA,3,0.0625,,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,14,0,21,0,0,0,17,0
+2002-08-01,Wizard,exposed,not available,not available,8,NA,3.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,9,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+2002-08-01,Wizard,exposed,not available,not available,9,NA,1,0.0625,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,9,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,9,NA,2,0.0625,,0,0,1,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,9,NA,2.5,0.0625,,0,0,3,0,0,0,0,0,0,0,0,3,2,0,0,0,1,0,0,0,0,5,0
+2002-08-01,Wizard,exposed,not available,not available,9,NA,3,0.0625,,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,2,15,12,0,0,0,3,0
+2002-08-01,Wizard,exposed,not available,not available,9,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,10,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,5,0,0
+2002-08-01,Wizard,exposed,not available,not available,10,NA,1,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,14,0,0,0,0,0,0,1,0
+2002-08-01,Wizard,exposed,not available,not available,10,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,10,NA,2,0.0625,,0,0,7,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,7,0
+2002-08-01,Wizard,exposed,not available,not available,10,NA,2.5,0.0625,,0,0,2,1,0,8,0,0,0,0,0,0,0,0,0,0,0,93,0,0,0,2,0
+2002-08-01,Wizard,exposed,not available,not available,10,NA,3,0.0625,,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,2,0,16,0,0,0,0,0
+2002-08-01,Wizard,exposed,not available,not available,10,NA,3.5,0.0625,,0,0,0,0,0,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,20,NA,0.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,20,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0
+2003-08-12,Wizard,exposed,not available,not available,20,NA,1.5,0.0625,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+2003-08-12,Wizard,exposed,not available,not available,20,NA,2,0.0625,,0,0,1,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2003-08-12,Wizard,exposed,not available,not available,20,NA,2.5,0.0625,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,17,0
+2003-08-12,Wizard,exposed,not available,not available,20,NA,3,0.0625,,0,0,0,0,0,9,0,3,0,0,0,0,0,0,45,3,0,0,0,0,0,14,0
+2003-08-12,Wizard,exposed,not available,not available,20,NA,3.5,0.0625,,0,0,0,0,0,15,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,25,NA,0.5,0.0625,,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0
+2003-08-12,Wizard,exposed,not available,not available,25,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+2003-08-12,Wizard,exposed,not available,not available,25,NA,1.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,26,0,0
+2003-08-12,Wizard,exposed,not available,not available,25,NA,2,0.0625,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,25,NA,2.5,0.0625,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,25,NA,3,0.0625,,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+2003-08-12,Wizard,exposed,not available,not available,25,NA,3.5,0.0625,,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,26,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2003-08-12,Wizard,exposed,not available,not available,26,NA,1,0.0625,,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0
+2003-08-12,Wizard,exposed,not available,not available,26,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2003-08-12,Wizard,exposed,not available,not available,26,NA,2,0.0625,,0,0,4,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,26,NA,2.5,0.0625,,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,26,NA,3,0.0625,,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,26,NA,3.5,0.0625,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,27,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,27,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,27,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,27,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,27,NA,2.5,0.0625,,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,4,34,0,0,0,0,9,0
+2003-08-12,Wizard,exposed,not available,not available,27,NA,3,0.0625,,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,13,0
+2003-08-12,Wizard,exposed,not available,not available,27,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,34,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+2003-08-12,Wizard,exposed,not available,not available,34,NA,1,0.0625,,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+2003-08-12,Wizard,exposed,not available,not available,34,NA,1.5,0.0625,,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0
+2003-08-12,Wizard,exposed,not available,not available,34,NA,2,0.0625,,0,0,5,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,34,NA,2.5,0.0625,,0,0,1,0,0,9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,34,NA,3,0.0625,,0,0,0,0,0,70,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,34,NA,3.5,0.0625,,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,44,NA,0.5,0.0625,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+2003-08-12,Wizard,exposed,not available,not available,44,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2003-08-12,Wizard,exposed,not available,not available,44,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,44,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,44,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,45,NA,0.5,0.0625,,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,33,0,0
+2003-08-12,Wizard,exposed,not available,not available,45,NA,1,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,50,0,0,0,0,0,0,0,4,0,0
+2003-08-12,Wizard,exposed,not available,not available,45,NA,1.5,0.0625,,1,1,0,0,0,0,1,7,1,1,1,0,0,1,0,0,0,0,0,0,50,0,0
+2003-08-12,Wizard,exposed,not available,not available,45,NA,2,0.0625,,0,0,6,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,45,NA,2.5,0.0625,,0,0,0,0,0,2,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-12,Wizard,exposed,not available,not available,45,NA,3,0.0625,,0,0,2,0,0,21,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,33,0
+2003-08-12,Wizard,exposed,not available,not available,45,NA,3.5,0.0625,,0,0,0,0,0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0
+2003-08-13,Wizard,exposed,not available,not available,7,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,7,NA,1,0.0625,,1,1,0,0,0,20,1,0,1,1,1,0,0,1,0,0,0,0,0,0,28,0,0
+2003-08-13,Wizard,exposed,not available,not available,7,NA,1.5,0.0625,,0,0,8,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,7,NA,2,0.0625,,0,0,5,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,7,NA,2.5,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,98,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,7,NA,3,0.0625,,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,7,NA,3.5,0.0625,,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,9,NA,0.5,0.0625,,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,9,NA,1,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,9,NA,1.5,0.0625,,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,9,NA,2,0.0625,,0,0,2,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,9,NA,2.5,0.0625,,0,0,1,0,0,15,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,10,0
+2003-08-13,Wizard,exposed,not available,not available,9,NA,3,0.0625,,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,7,0
+2003-08-13,Wizard,exposed,not available,not available,9,NA,3.5,0.0625,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,10,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,10,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,10,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,10,NA,2,0.0625,,0,0,16,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,10,NA,2.5,0.0625,,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,10,NA,3,0.0625,,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+2003-08-13,Wizard,exposed,not available,not available,10,NA,3.5,0.0625,,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,11,NA,0.5,0.0625,,1,1,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,4,0,0
+2003-08-13,Wizard,exposed,not available,not available,11,NA,1,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,35,0,0
+2003-08-13,Wizard,exposed,not available,not available,11,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,11,NA,2,0.0625,,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2003-08-13,Wizard,exposed,not available,not available,11,NA,2.5,0.0625,,0,0,0,0,0,16.5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,11,NA,3,0.0625,,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,11,NA,3.5,0.0625,,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,12,NA,0.5,0.0625,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,20,0,0
+2003-08-13,Wizard,exposed,not available,not available,12,NA,1,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,36,0,0
+2003-08-13,Wizard,exposed,not available,not available,12,NA,1.5,0.0625,,0,0,15,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,12,NA,2,0.0625,,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,12,NA,2.5,0.0625,,0,0,3,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+2003-08-13,Wizard,exposed,not available,not available,12,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0
+2003-08-13,Wizard,exposed,not available,not available,12,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2003-08-13,Wizard,exposed,not available,not available,13,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2003-08-13,Wizard,exposed,not available,not available,13,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0
+2003-08-13,Wizard,exposed,not available,not available,13,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0
+2003-08-13,Wizard,exposed,not available,not available,13,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2003-08-13,Wizard,exposed,not available,not available,13,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2003-08-13,Wizard,exposed,not available,not available,13,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,38,0
+2003-08-13,Wizard,exposed,not available,not available,13,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,0
+2003-08-13,Wizard,exposed,not available,not available,18,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0
+2003-08-13,Wizard,exposed,not available,not available,18,NA,1,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,9,0,0
+2003-08-13,Wizard,exposed,not available,not available,18,NA,1.5,0.0625,,0,0,8,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+2003-08-13,Wizard,exposed,not available,not available,18,NA,2,0.0625,,0,0,5,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,18,NA,2.5,0.0625,,0,0,2,1,0,35,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,18,NA,3,0.0625,,0,0,1,0,0,25,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+2003-08-13,Wizard,exposed,not available,not available,18,NA,3.5,0.0625,,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,1,NA,0.5,0.0625,,0,0,0,0,0,0,0,4,0,0,0,0,0,0,50,0,0,0,0,0,0,5,0
+2007-07-31,Wizard,exposed,not available,not available,1,NA,1,0.0625,,0,0,0,0,0,15,0,0,0,0,0,100,0,0,10,0,0,20,0,0,100,0,0
+2007-07-31,Wizard,exposed,not available,not available,1,NA,1.5,0.0625,,0,0,0,0,0,0,0,15,0,0,0,50,0,0,0,15,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,1,NA,2,0.0625,,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0
+2007-07-31,Wizard,exposed,not available,not available,1,NA,2.5,0.0625,,1,1,6,0,0,0,1,10,1,1,1,0,0,1,0,0,0,1,0,0,0,15,0
+2007-07-31,Wizard,exposed,not available,not available,1,NA,3,0.0625,,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,1,NA,3.5,0.0625,,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,3,NA,0.5,0.0625,,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,35,2,0,90,0,0
+2007-07-31,Wizard,exposed,not available,not available,3,NA,1,0.0625,,1,1,1,0,0,10,1,0,1,1,1,0,0,1,0,0,0,0,0,0,26,0,0
+2007-07-31,Wizard,exposed,not available,not available,3,NA,1.5,0.0625,,1,1,0,0,0,4,1,0,1,1,1,0,0,1,0,0,0,0,0,0,80,0,0
+2007-07-31,Wizard,exposed,not available,not available,3,NA,2,0.0625,,0,0,4,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2007-07-31,Wizard,exposed,not available,not available,3,NA,2.5,0.0625,,0,0,0,0,0,83,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,3,NA,3,0.0625,,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,20,0,0,20,0,0
+2007-07-31,Wizard,exposed,not available,not available,3,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,6,NA,0.5,0.0625,,0,0,0,0,0,9,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,exposed,not available,not available,6,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,exposed,not available,not available,6,NA,1.5,0.0625,,1,1,2,0,0,0,1,0,1,1,1,0,0,1,8,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,exposed,not available,not available,6,NA,2,0.0625,,1,1,2,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0.5,0,0,0,15,0
+2007-07-31,Wizard,exposed,not available,not available,6,NA,2.5,0.0625,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,9,0,75,0,0,0,2,2
+2007-07-31,Wizard,exposed,not available,not available,6,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,6,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,10,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2007-07-31,Wizard,exposed,not available,not available,10,NA,1,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,10,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+2007-07-31,Wizard,exposed,not available,not available,10,NA,2,0.0625,,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2007-07-31,Wizard,exposed,not available,not available,10,NA,2.5,0.0625,,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,10,NA,3,0.0625,,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,10,NA,3.5,0.0625,,0,0,0,0,0,95,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,12,NA,0.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,2,0,0,60,0,0,4,0,0,0,1,0
+2007-07-31,Wizard,exposed,not available,not available,12,NA,1,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,95,0,0,0,0,0,20,0,0
+2007-07-31,Wizard,exposed,not available,not available,12,NA,1.5,0.0625,,0,0,5,5,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,15,0
+2007-07-31,Wizard,exposed,not available,not available,12,NA,2,0.0625,,0,0,2,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0
+2007-07-31,Wizard,exposed,not available,not available,12,NA,2.5,0.0625,,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,5,0
+2007-07-31,Wizard,exposed,not available,not available,12,NA,3,0.0625,,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,15,0
+2007-07-31,Wizard,exposed,not available,not available,12,NA,3.5,0.0625,,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,13,NA,0.5,0.0625,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,30,0,0,0,0,0,0,1,0
+2007-07-31,Wizard,exposed,not available,not available,13,NA,1,0.0625,,1,1,0,0,0,0,1,1,1,1,1,5,25,1,33,0,3,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,13,NA,1.5,0.0625,,1,1,4,5,0,0,1,1,1,1,1,2,0,1,8,0,1,0,0,0,1,0,0
+2007-07-31,Wizard,exposed,not available,not available,13,NA,2,0.0625,,0,0,3,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,6,0
+2007-07-31,Wizard,exposed,not available,not available,13,NA,2.5,0.0625,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0,0,0,0,6,0
+2007-07-31,Wizard,exposed,not available,not available,13,NA,3,0.0625,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,15,0
+2007-07-31,Wizard,exposed,not available,not available,13,NA,3.5,0.0625,,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,17,NA,0.5,0.0625,,0,0,0,0,2,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,1,0
+2007-07-31,Wizard,exposed,not available,not available,17,NA,1,0.0625,,0,0,1,0,2,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,1,0
+2007-07-31,Wizard,exposed,not available,not available,17,NA,1.5,0.0625,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,5,0
+2007-07-31,Wizard,exposed,not available,not available,17,NA,2,0.0625,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,exposed,not available,not available,17,NA,2.5,0.0625,,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,exposed,not available,not available,17,NA,3,0.0625,,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,exposed,not available,not available,17,NA,3.5,0.0625,,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,23,NA,0.5,0.0625,,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2007-07-31,Wizard,exposed,not available,not available,23,NA,1,0.0625,,1,1,4,0,0,0,1,80,1,1,1,0,40,1,1,0,0,0,0,0,0,10,0
+2007-07-31,Wizard,exposed,not available,not available,23,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,0,30,0
+2007-07-31,Wizard,exposed,not available,not available,23,NA,2,0.0625,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,100,0
+2007-07-31,Wizard,exposed,not available,not available,23,NA,2.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,23,NA,3,0.0625,,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,2,0,0,0,40,0
+2007-07-31,Wizard,exposed,not available,not available,23,NA,3.5,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,25,NA,0.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,25,NA,1,0.0625,,1,1,0,0,0,10,1,0,1,1,1,0,0,1,40,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,25,NA,1.5,0.0625,,0,0,5,0,0,1,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,exposed,not available,not available,25,NA,2,0.0625,,0,0,10,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,25,NA,2.5,0.0625,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0
+2007-07-31,Wizard,exposed,not available,not available,25,NA,3,0.0625,,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,15,0
+2007-07-31,Wizard,exposed,not available,not available,25,NA,3.5,0.0625,,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,27,NA,0.5,0.0625,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,13,0,0
+2007-07-31,Wizard,exposed,not available,not available,27,NA,1,0.0625,,0,0,0,0,0,0,0,10,0,0,0,0,0,0,45,0,0,5,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,27,NA,1.5,0.0625,,0,0,2,0,0,0,0,20,0,0,0,0,0,0,5,0,0,0,0,0,0,12,0
+2007-07-31,Wizard,exposed,not available,not available,27,NA,2,0.0625,,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,10,0
+2007-07-31,Wizard,exposed,not available,not available,27,NA,2.5,0.0625,,0,0,5,0,0,0,0,20,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0
+2007-07-31,Wizard,exposed,not available,not available,27,NA,3,0.0625,,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,15,0,0,0,50,0
+2007-07-31,Wizard,exposed,not available,not available,27,NA,3.5,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2.5,0
+2007-07-31,Wizard,exposed,not available,not available,29,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,31,0,0
+2007-07-31,Wizard,exposed,not available,not available,29,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,29,NA,1.5,0.0625,,0,0,0,5,0,0,0,3,0,0,0,0,0,0,5,0,0,0,0,0,0,5,0
+2007-07-31,Wizard,exposed,not available,not available,29,NA,2,0.0625,,0,0,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+2007-07-31,Wizard,exposed,not available,not available,29,NA,2.5,0.0625,,0,0,5,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2007-07-31,Wizard,exposed,not available,not available,29,NA,3,0.0625,,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,29,NA,3.5,0.0625,,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,33,NA,0.5,0.0625,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2007-07-31,Wizard,exposed,not available,not available,33,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,4,0
+2007-07-31,Wizard,exposed,not available,not available,33,NA,1.5,0.0625,,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0
+2007-07-31,Wizard,exposed,not available,not available,33,NA,2,0.0625,,0,0,8,0,0,0,0,12,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0
+2007-07-31,Wizard,exposed,not available,not available,33,NA,2.5,0.0625,,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,3,0
+2007-07-31,Wizard,exposed,not available,not available,33,NA,3,0.0625,,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,33,NA,3.5,0.0625,,0,0,0,0,0,49,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,41,NA,0.5,0.0625,,0,0,0,0,0,70,0,0,0,0,0,15,0,0,65,0,0,80,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,41,NA,1,0.0625,,0,0,0,0,0,20,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,41,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,41,NA,2,0.0625,,0,0,0,0,0,7,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,41,NA,2.5,0.0625,,1,1,4,0,0,20,1,0,1,1,1,0,0,1,3,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,41,NA,3,0.0625,,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,7,0
+2007-07-31,Wizard,exposed,not available,not available,41,NA,3.5,0.0625,,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,42,NA,0.5,0.0625,,0,0,0,0,0,15,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,exposed,not available,not available,42,NA,1,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,40,0,0,0,0,0,70,0.5,0
+2007-07-31,Wizard,exposed,not available,not available,42,NA,1.5,0.0625,,0,0,0,0.25,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,exposed,not available,not available,42,NA,2,0.0625,,0,0,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2007-07-31,Wizard,exposed,not available,not available,42,NA,2.5,0.0625,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,0,0,0,40,0
+2007-07-31,Wizard,exposed,not available,not available,42,NA,3,0.0625,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,12,6,0,0,0,0,4,0
+2007-07-31,Wizard,exposed,not available,not available,42,NA,3.5,0.0625,,0,0,0,0,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,exposed,not available,not available,46,NA,0.5,0.0625,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33,0,0,2,0,0,0,1,0
+2007-07-31,Wizard,exposed,not available,not available,46,NA,1,0.0625,,0,0,0,0,0,0,0,4,0,0,0,0,0,0,9,0,0,0,0,0,70,0,0
+2007-07-31,Wizard,exposed,not available,not available,46,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,1,0
+2007-07-31,Wizard,exposed,not available,not available,46,NA,2,0.0625,,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2007-07-31,Wizard,exposed,not available,not available,46,NA,2.5,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0.5,0,0,0,0,0,3,0
+2007-07-31,Wizard,exposed,not available,not available,46,NA,3,0.0625,,0,0,0,0,0,4,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,50,0
+2007-07-31,Wizard,exposed,not available,not available,46,NA,3.5,0.0625,,0,0,0,0,0,30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0
+2007-07-31,Wizard,sheltered,not available,not available,5,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,sheltered,not available,not available,5,NA,1,0.0625,,0,0,0,0,0,0,0,6,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,5,NA,1.5,0.0625,,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,5,NA,2,0.0625,,0,0,0,0,0,0,0,95,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,5,NA,2.5,0.0625,,0,0,0,0,0,0,0,95,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,5,NA,3,0.0625,,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,5,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,13,NA,0.5,0.0625,,0,0,0,0,0,15,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,13,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,13,NA,1.5,0.0625,,0,0,12,0,0,0,0,0,0,0,0,30,0,0,0,0,0,65,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,13,NA,2,0.0625,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,13,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,13,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,13,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,20,NA,0.5,0.0625,,0,0,0,0,0,0,0,8,0,0,0,4,0,0,0,0,0,0,0,0,37,0,0
+2007-07-31,Wizard,sheltered,not available,not available,20,NA,1,0.0625,,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,51,0,0,0,1,0
+2007-07-31,Wizard,sheltered,not available,not available,20,NA,1.5,0.0625,,1,1,9,0,0,0,1,6,1,1,1,0,0,1,0,0,0,20,0,0,3,1,0
+2007-07-31,Wizard,sheltered,not available,not available,20,NA,2,0.0625,,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,20,NA,2.5,0.0625,,0,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,20,NA,3,0.0625,,0,0,0,0,0,26,0,3,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,20,NA,3.5,0.0625,,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,21,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,50,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,21,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,75,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,21,NA,1.5,0.0625,,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,1,0
+2007-07-31,Wizard,sheltered,not available,not available,21,NA,2,0.0625,,0,0,1,0,0,9,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,21,NA,2.5,0.0625,,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,21,NA,3,0.0625,,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,21,NA,3.5,0.0625,,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,26,NA,0.5,0.0625,,0,0,0,0,0,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,26,NA,1,0.0625,,0,0,0,0,0,11,0,2,0,0,0,0,0,0,28,0,0,0,0,0,0,2,0
+2007-07-31,Wizard,sheltered,not available,not available,26,NA,1.5,0.0625,,0,0,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+2007-07-31,Wizard,sheltered,not available,not available,26,NA,2,0.0625,,0,0,2,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,26,NA,2.5,0.0625,,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,26,NA,3,0.0625,,0,0,0,0,0,15,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,26,NA,3.5,0.0625,,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,28,NA,0.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,30,0,0,5,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,28,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,28,NA,1.5,0.0625,,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,28,NA,2,0.0625,,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,28,NA,2.5,0.0625,,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,28,NA,3,0.0625,,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,28,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,31,NA,0.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,31,NA,1,0.0625,,0,0,0,3,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,31,NA,1.5,0.0625,,0,0,15,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,31,NA,2,0.0625,,0,0,1,0,0,50,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,31,NA,2.5,0.0625,,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,31,NA,3,0.0625,,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,31,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,32,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,32,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,32,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,32,NA,2,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,32,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,32,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,32,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,33,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,10,0,0
+2007-07-31,Wizard,sheltered,not available,not available,33,NA,1,0.0625,,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,33,NA,1.5,0.0625,,0,0,2,0,0,80,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,33,NA,2,0.0625,,0,0,2,0,0,30,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,33,NA,2.5,0.0625,,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,33,NA,3,0.0625,,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,33,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,35,NA,0.5,0.0625,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,35,NA,1,0.0625,,0,0,0,0,0,62,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,35,NA,1.5,0.0625,,0,0,3,0,0,90,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,35,NA,2,0.0625,,1,1,3,0,0,8,1,0,1,1,1,0,0,1,0,0,0,100,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,35,NA,2.5,0.0625,,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,35,NA,3,0.0625,,0,0,0,0,0,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,35,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,36,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,3,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,36,NA,1,0.0625,,1,1,0,0,0,5,1,0,1,1,1,0,0,1,10,0,0,5,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,36,NA,1.5,0.0625,,0,0,49,0,0,0,0,0,0,0,0,0,0,0,5,0,0,40,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,36,NA,2,0.0625,,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,36,NA,2.5,0.0625,,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,36,NA,3,0.0625,,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,36,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,38,NA,0.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,38,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,38,NA,1.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,38,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,38,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,38,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,38,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,42,NA,0.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,42,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,42,NA,1.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,42,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,42,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,42,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,42,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,44,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,44,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,44,NA,1.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,44,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,44,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,44,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,44,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,45,NA,0.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,80,0,1,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,45,NA,1,0.0625,,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,70,0,0,0,0,2,0
+2007-07-31,Wizard,sheltered,not available,not available,45,NA,1.5,0.0625,,0,0,5,2,20,0,0,0,0,0,0,8,0,0,4,0,4,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,45,NA,2,0.0625,,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+2007-07-31,Wizard,sheltered,not available,not available,45,NA,2.5,0.0625,,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,45,NA,3,0.0625,,0,0,0,0,0,75,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,45,NA,3.5,0.0625,,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,46,NA,0.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,0,1,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,46,NA,1,0.0625,,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,46,NA,1.5,0.0625,,0,0,3,0,0,70,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,46,NA,2,0.0625,,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,46,NA,2.5,0.0625,,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,46,NA,3,0.0625,,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,46,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,48,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,48,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,48,NA,1.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,48,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,48,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,48,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007-07-31,Wizard,sheltered,not available,not available,48,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,15,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,15,NA,1.5,0.0625,,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2009-08-03,Wizard,exposed,not available,not available,15,NA,2,0.0625,,0,0,1,0,0,3.5,0,0,0,0,0,0,0,0,0,0,75.5,0,0,0,0,2,0
+2009-08-03,Wizard,exposed,not available,not available,15,NA,2.5,0.0625,,0,0,0,0,0,28.5,0,0,0,0,0,0,0,0,0,1,62,0,0,0,0,11,0
+2009-08-03,Wizard,exposed,not available,not available,15,NA,3,0.0625,,0,0,0,0,0,43.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,15,NA,3.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,17,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2009-08-03,Wizard,exposed,not available,not available,17,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,17,NA,2,0.0625,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,17,NA,2.5,0.0625,,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,3,0
+2009-08-03,Wizard,exposed,not available,not available,17,NA,3,0.0625,,0,0,0,0,0,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,17,NA,3.5,0.0625,,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,25,NA,1,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,25,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,25,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,25,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,79,0,0,0,0,23,0
+2009-08-03,Wizard,exposed,not available,not available,25,NA,3,0.0625,,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,25,NA,3.5,0.0625,,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,37,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,37,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,37,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,37,NA,2.5,0.0625,,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,37,NA,3,0.0625,,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,37,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,40,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,40,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,40,NA,2,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,40,NA,2.5,0.0625,,0,0,0,0,23,2,0,0,0,0,0,0,0,0,0,2,61,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,40,NA,3,0.0625,,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,40,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,44,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0
+2009-08-03,Wizard,exposed,not available,not available,44,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,44,NA,2,0.0625,,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,44,NA,2.5,0.0625,,0,0,0,0,5.5,0,0,0,0,0,0,0,0,0,0,10,41.5,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,44,NA,3,0.0625,,0,0,0,0,0,89,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,44,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,46,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,46,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,46,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2009-08-03,Wizard,exposed,not available,not available,46,NA,2.5,0.0625,,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,5,61,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,46,NA,3,0.0625,,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0
+2009-08-03,Wizard,exposed,not available,not available,46,NA,3.5,0.0625,,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,1,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,1,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,1,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,1,NA,2.5,0.0625,,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,1,NA,3,0.0625,,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,1,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,3,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,3,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,3,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,3,NA,2.5,0.0625,,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,13,29,0,0,0,0,6,0
+2009-08-04,Wizard,exposed,not available,not available,3,NA,3,0.0625,,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,3,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,5,NA,1,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,5,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,5,NA,2,0.0625,,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,12.5,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,5,NA,2.5,0.0625,,0,0,0.5,0,0,9,0,0,0,0,0,0,0,0,0,0,74.5,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,5,NA,3,0.0625,,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2009-08-04,Wizard,exposed,not available,not available,5,NA,3.5,0.0625,,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,11,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,11,NA,1.5,0.0625,,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2009-08-04,Wizard,exposed,not available,not available,11,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87.5,0,0,0,0,1,0
+2009-08-04,Wizard,exposed,not available,not available,11,NA,2.5,0.0625,,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,2,72,0,0,0,0,1,0
+2009-08-04,Wizard,exposed,not available,not available,11,NA,3,0.0625,,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,11,NA,3.5,0.0625,,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,20,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,20,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,20,NA,2,0.0625,,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+2009-08-04,Wizard,exposed,not available,not available,20,NA,2.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,31,70,0,0,0,0,16,0
+2009-08-04,Wizard,exposed,not available,not available,20,NA,3,0.0625,,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,20,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,32,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0
+2009-08-04,Wizard,exposed,not available,not available,32,NA,1.5,0.0625,,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0
+2009-08-04,Wizard,exposed,not available,not available,32,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,32,NA,2.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,12.5,0,0,0,0,20.5,0
+2009-08-04,Wizard,exposed,not available,not available,32,NA,3,0.0625,,0,0,0,0,0,47.5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,32,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,48,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0
+2009-08-04,Wizard,exposed,not available,not available,48,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,48,NA,2,0.0625,,0,0,1,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,48,NA,2.5,0.0625,,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,48,NA,3,0.0625,,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,exposed,not available,not available,48,NA,3.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,7,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,7,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,18,0,0
+2009-08-04,Wizard,sheltered,not available,not available,7,NA,2,0.0625,,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,7,NA,2.5,0.0625,,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,7,NA,3,0.0625,,0,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,7,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,10,NA,2,0.0625,,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,10,NA,2.5,0.0625,,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,10,NA,3,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,10,NA,3.5,0.0625,,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,12,NA,2,0.0625,,0,0,2.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,12,NA,2.5,0.0625,,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,14.5,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,12,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,12,NA,3.5,0.0625,,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,18,NA,2,0.0625,,0,0,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,18,NA,2.5,0.0625,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,6,0
+2009-08-04,Wizard,sheltered,not available,not available,18,NA,3,0.0625,,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,18,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,21,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,21,NA,2,0.0625,,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,21,NA,2.5,0.0625,,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,21,NA,3.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,42,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,42,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,5,0
+2009-08-04,Wizard,sheltered,not available,not available,42,NA,2.5,0.0625,,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,5,0
+2009-08-04,Wizard,sheltered,not available,not available,42,NA,3,0.0625,,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-04,Wizard,sheltered,not available,not available,42,NA,3.5,0.0625,,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,11,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,11,NA,1.5,0.0625,,1,1,3,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,11,NA,2,0.0625,,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,11,NA,2.5,0.0625,,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,11,NA,3,0.0625,,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,11,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,15,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,15,NA,2.5,0.0625,,0,0,0,0,16,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,15,NA,3,0.0625,,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,15,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,26,NA,1,0.0625,,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,26,NA,1.5,0.0625,,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,26,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,26,NA,2.5,0.0625,,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,26,NA,3,0.0625,,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,26,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,34,NA,1,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,20,0,0
+2009-08-05,Wizard,sheltered,not available,not available,34,NA,1.5,0.0625,,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,34,NA,2,0.0625,,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,34,NA,2.5,0.0625,,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,34,NA,3,0.0625,,0,0,0,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,34,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,36,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,36,NA,1.5,0.0625,,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+2009-08-05,Wizard,sheltered,not available,not available,36,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,36,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,36,NA,3,0.0625,,0,0,0,0,0,80,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,36,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,38,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,38,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,38,NA,1.5,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,38,NA,2,0.0625,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,38,NA,2.5,0.0625,,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,38,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,40,NA,1,0.0625,,1,1,4,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,40,NA,1.5,0.0625,,1,1,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,40,NA,2,0.0625,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,40,NA,2.5,0.0625,,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,40,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,40,NA,3.5,0.0625,,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,44,NA,1.5,0.0625,,1,1,4.5,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,44,NA,2,0.0625,,1,1,6,0,1,0,1,0,1,1,1,0,0,1,0,0,30,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,44,NA,2.5,0.0625,,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,44,NA,3,0.0625,,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,44,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,48,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,48,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+2009-08-05,Wizard,sheltered,not available,not available,48,NA,2.5,0.0625,,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,48,NA,3,0.0625,,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-05,Wizard,sheltered,not available,not available,48,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-23,Wizard,sheltered,not available,not available,10,NA,1,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0
+2009-08-23,Wizard,sheltered,not available,not available,10,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+2009-08-23,Wizard,sheltered,not available,not available,12,NA,1,0.0625,,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0
+2009-08-23,Wizard,sheltered,not available,not available,12,NA,1.5,0.0625,,1,1,4,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,17,0,0
+2009-08-23,Wizard,sheltered,not available,not available,15,NA,1,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-23,Wizard,sheltered,not available,not available,15,NA,1.5,0.0625,,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0
+2009-08-23,Wizard,sheltered,not available,not available,18,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0
+2009-08-23,Wizard,sheltered,not available,not available,18,NA,1.5,0.0625,,1,1,4,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,25,0,0
+2009-08-23,Wizard,sheltered,not available,not available,21,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2009-08-23,Wizard,sheltered,not available,not available,21,NA,1.5,0.0625,,1,1,4,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,43,0,0
+2009-08-23,Wizard,sheltered,not available,not available,42,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-23,Wizard,sheltered,not available,not available,44,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009-08-23,Wizard,sheltered,not available,not available,48,NA,1,0.0625,,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,3,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2017-08-20,wizard,exposed,not available,not available,3,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,3,NA,1,0.0625,,0,0,0,6,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,3,NA,1.5,0.0625,,0,0,0,5,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,3,NA,2,0.0625,,0,0,0,0,0,9,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,3,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,58,0
+2017-08-20,wizard,exposed,not available,not available,3,NA,3,0.0625,,10,0,2,10,0,0,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,3,NA,3.5,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,4,NA,0.2,0.0625,,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,20
+2017-08-20,wizard,exposed,not available,not available,4,NA,0.5,0.0625,,0,0,0,4,0,0,0,0,0,0,0,3,10,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,4,NA,1,0.0625,,0,0,5,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,4,NA,1.5,0.0625,,0,0,1,15,0,2,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,4,NA,2,0.0625,,9,0,1,0,0,3,0,3,4,0,0,0,0,0,0,7,0,36,0,0,0,1,0
+2017-08-20,wizard,exposed,not available,not available,4,NA,2.5,0.0625,,3,0,0,0,0,6,0,0,4,0,0,0,0,0,0,13,0,88,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,4,NA,3,0.0625,,8,0,0,0,0,43,0,0,2,0,0,0,0,0,0,0,0,12,0,0,0,11,0
+2017-08-20,wizard,exposed,not available,not available,4,NA,3.5,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,9,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,2
+2017-08-20,wizard,exposed,not available,not available,9,NA,0.5,0.0625,,1,0,0,2,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,9,NA,1,0.0625,,0,0,1,10,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+2017-08-20,wizard,exposed,not available,not available,9,NA,1.5,0.0625,,0,0,2,30,0,0,0,0,0,0,0,0,0,0,0,15,0,10,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,9,NA,2,0.0625,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,9,NA,2.5,0.0625,,1,0,1,0,0,10,0,0,0,0,0,0,0,0,0,3,0,6,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,9,NA,3,0.0625,,4,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,9,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,12,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,12,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,12,NA,1,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,12,NA,1.5,0.0625,,0,0,17,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,19,0
+2017-08-20,wizard,exposed,not available,not available,12,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,12,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,16,0,0,0,3,0
+2017-08-20,wizard,exposed,not available,not available,12,NA,3,0.0625,,1,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,12,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,15,NA,0.2,0.0625,,0,8,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,15,NA,0.5,0.0625,,0,0,0,0,0,0,0,10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,15,NA,1,0.0625,,4,0,1,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,30,0
+2017-08-20,wizard,exposed,not available,not available,15,NA,1.5,0.0625,,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,15,NA,2,0.0625,,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,10,0,12,0,0,0,2,0
+2017-08-20,wizard,exposed,not available,not available,15,NA,2.5,0.0625,,2,0,3,0,0,3,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,8,0
+2017-08-20,wizard,exposed,not available,not available,15,NA,3,0.0625,,2,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,15,NA,3.5,0.0625,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,18,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,18,NA,0.5,0.0625,,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,18,NA,1,0.0625,,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2017-08-20,wizard,exposed,not available,not available,18,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0
+2017-08-20,wizard,exposed,not available,not available,18,NA,2,0.0625,,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,20,0,0,0,1,0
+2017-08-20,wizard,exposed,not available,not available,18,NA,2.5,0.0625,,0,0,0,0,0,0,0,33,1,0,0,0,0,0,0,9,0,19,0,0,0,13,0
+2017-08-20,wizard,exposed,not available,not available,18,NA,3,0.0625,,13,0,0,0,0,6,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,18,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,19,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,19,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,19,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+2017-08-20,wizard,exposed,not available,not available,19,NA,1.5,0.0625,,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,19,NA,2,0.0625,,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,19,NA,2.5,0.0625,,0,0,1,0,0,0,0,20,0,0,0,0,0,0,0,1,0,0,0,0,0,18,0
+2017-08-20,wizard,exposed,not available,not available,19,NA,3,0.0625,,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,19,NA,3.5,0.0625,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,20,NA,0.2,0.0625,,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,20,NA,0.5,0.0625,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,20,NA,1,0.0625,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,20,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,20,NA,2,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,20,NA,2.5,0.0625,,1,0,1,0,0,4,0,8,0,0,0,0,0,0,0,5,0,26,0,0,0,22,0
+2017-08-20,wizard,exposed,not available,not available,20,NA,3,0.0625,,6,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,20,NA,3.5,0.0625,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,21,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,21,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+2017-08-20,wizard,exposed,not available,not available,21,NA,1,0.0625,,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,21,NA,1.5,0.0625,,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,21,NA,2,0.0625,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,10,0,15,0,0,0,4,0
+2017-08-20,wizard,exposed,not available,not available,21,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,10,0,66,0,0,0,8,0
+2017-08-20,wizard,exposed,not available,not available,21,NA,3,0.0625,,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,21,NA,3.5,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,24,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,10,0,5,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,24,NA,0.5,0.0625,,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,24,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+2017-08-20,wizard,exposed,not available,not available,24,NA,1.5,0.0625,,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,30,0,10,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,24,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,10,0,0,0,2,0
+2017-08-20,wizard,exposed,not available,not available,24,NA,2.5,0.0625,,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,20,0,10,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,24,NA,3,0.0625,,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,24,NA,3.5,0.0625,,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,30,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,30,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,30,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+2017-08-20,wizard,exposed,not available,not available,30,NA,1.5,0.0625,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,30,NA,2,0.0625,,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,30,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,30,NA,3,0.0625,,5,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,30,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,40,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,40,NA,0.5,0.0625,,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2017-08-20,wizard,exposed,not available,not available,40,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,40,NA,1.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,40,NA,2,0.0625,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,30,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,40,NA,2.5,0.0625,,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,10,0,20,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,40,NA,3,0.0625,,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,40,NA,3.5,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,44,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,3,0,0,3,10
+2017-08-20,wizard,exposed,not available,not available,44,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,15,1
+2017-08-20,wizard,exposed,not available,not available,44,NA,1,0.0625,,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,44,NA,1.5,0.0625,,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,44,NA,2,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,10,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,44,NA,2.5,0.0625,,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,34,0,10,0,0,0,8,1
+2017-08-20,wizard,exposed,not available,not available,44,NA,3,0.0625,,2,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,44,NA,3.5,0.0625,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,45,NA,0.2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,45,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,2,0,10,0,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,45,NA,1,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,45,NA,1.5,0.0625,,0,0,0,10,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,45,NA,2,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,35,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,45,NA,2.5,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,20,0,10,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,45,NA,3,0.0625,,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,45,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2017-08-20,wizard,exposed,not available,not available,50,NA,0.2,0.0625,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,50,NA,0.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,10,0
+2017-08-20,wizard,exposed,not available,not available,50,NA,1,0.0625,,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,50,NA,1.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,50,NA,2,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,90,0,0,0,5,0
+2017-08-20,wizard,exposed,not available,not available,50,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0
+2017-08-20,wizard,exposed,not available,not available,50,NA,3,0.0625,,7,0,0,0,0,22,0,12,0,0,0,0,0,0,0,0,0,5,0,0,0,29,0
+2017-08-20,wizard,exposed,not available,not available,50,NA,3.5,0.0625,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",2,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",2,NA,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",2,NA,1,0.0625,y,3,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",2,NA,1.5,0.0625,y,3,0,6,1,0,0,0,12,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",2,NA,2,0.0625,y,22,0,4,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,93,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",2,NA,2.5,0.0625,y,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,40,1,10,0,0,1,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",2,NA,3,0.0625,y,15,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",2,NA,3.5,0.0625,y,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",7,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",7,NA,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",7,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",7,NA,1.5,0.0625,Y,0,0,1,11,0,0,0,0,1,0,0,0.01,0.25,0,0,2,0,0,0,0,0,0.1,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",7,NA,2,0.0625,y,8,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,100,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",7,NA,2.5,0.0625,y,0.5,0,0,0,0,2,0,0,0,0,0,0,0,0,0,20,0,80,0,0,0,2,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",7,NA,3,0.0625,y,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,20,0,1,0,0,0,25,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",7,NA,3.5,0.0625,N,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",9,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",9,NA,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",9,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",9,NA,1.5,0.0625,y,0,0,2,4,0,0,0,0,0,0,0,6,0,0,2.5,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",9,NA,2,0.0625,y,0,0,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",9,NA,2.5,0.0625,y,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,8,0,23,0,0,0,2,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",9,NA,3,0.0625,y,0,0,0,0,1,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",9,NA,3.5,0.0625,n,2,0,0,0,0,15,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",11,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",11,NA,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",11,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",11,NA,1.5,0.0625,Y,0,0,5,0,0,0,0,0,0,0,0,2.5,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",11,NA,2,0.0625,N,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,5,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",11,NA,2.5,0.0625,N,1,0,0,0,0,60,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",11,NA,3,0.0625,N,1,0,0,0,0,90,0,1,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",11,NA,3.5,0.0625,N,1,0,0,0,1,50,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",15,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",15,NA,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",15,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",15,NA,1.5,0.0625,n,0,0,4,0,0,3,0,0,0,0,0,0,0,0,0.01,0,0,0,0,0,0.01,0.2,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",15,NA,2,0.0625,n,3,0,1.5,0,0,3,0,2,0,0,0,0,0,0,0,0,0.05,3,0,0,0,2,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",15,NA,2.5,0.0625,n,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",15,NA,3,0.0625,n,1,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",15,NA,3.5,0.0625,n,1,0,0,0,0,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",17,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",17,NA,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",17,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",17,NA,1.5,0.0625,y,3,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",17,NA,2,0.0625,y,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,10,2,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",17,NA,2.5,0.0625,y,1,0,0,0,0,75,0,0,0,0,0,0,0,0,0,1,0,25,0,0,10,5,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",17,NA,3,0.0625,y,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",17,NA,3.5,0.0625,y,0,0,0,0,0,50,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",19,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",19,NA,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",19,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",19,NA,1.5,0.0625,y,20,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",19,NA,2,0.0625,y,3,0,1,0,2,10,0,0,0,0,0,0,0,0,0,22,0,100,0,0,0,5,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",19,NA,2.5,0.0625,y,5,0,1,0,0,30,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,20,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",19,NA,3,0.0625,y,0,0,0,0,0,25,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Urchins,"Emily, Emma, Kyle, Alexis, Shay, Colin",19,NA,3.5,0.0625,y,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",28,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",28,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",28,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",28,NA,1.5,0.0625,yes,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",28,NA,2,0.0625,yes,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",28,NA,2.5,0.0625,yes,1,0,0,0,6,9,0,0,0,0,0,0,0,0,0,4,0,22,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",28,NA,3,0.0625,yes,1,0,0,0,0,50,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",28,NA,3.5,0.0625,yes,0.5,0,0,0,0,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",29,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",29,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",29,NA,1,0.0625,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",29,NA,1.5,0.0625,yes,0,0,0,0,0,0,0,2,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",29,NA,2,0.0625,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",29,NA,2.5,0.0625,yes,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,2,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",29,NA,3,0.0625,yes,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",29,NA,3.5,0.0625,yes,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",32,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",32,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",32,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",32,NA,1.5,0.0625,yes,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",32,NA,2,0.0625,yes,1,0,3,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",32,NA,2.5,0.0625,yes,0,0,0,0,0,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",32,NA,3,0.0625,yes,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",32,NA,3.5,0.0625,yes,0,0,0,0,0,25,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",39,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",39,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",39,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",39,NA,1.5,0.0625,yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",39,NA,2,0.0625,yes,0,0,0,0,0,1,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",39,NA,2.5,0.0625,yes,0,0,0,0,0,11,0,9,0,0,0,0,0,0,0,15,0,85,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",39,NA,3,0.0625,yes,5,0,0,0,0,40,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",39,NA,3.5,0.0625,yes,0,0,0,0,0,17,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",42,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",42,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",42,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",42,NA,1.5,0.0625,yes,1,0,1,0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",42,NA,2,0.0625,yes,0,0,0,0,0,6,0,2,0,0,0,0,0.5,0,0,0,0,0,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",42,NA,2.5,0.0625,yes,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,11,0,70,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",42,NA,3,0.0625,yes,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",42,NA,3.5,0.0625,yes,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",46,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",46,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",46,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",46,NA,1.5,0.0625,yes,0,0,2,0,0,0,0,7,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",46,NA,2,0.0625,yes,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",46,NA,2.5,0.0625,yes,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",46,NA,3,0.0625,yes,0,0,0,0,0,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",46,NA,3.5,0.0625,yes,0,0,0,0,0,8,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",47,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",47,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",47,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",47,NA,1.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",47,NA,2,0.0625,yes,1,0,2,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",47,NA,2.5,0.0625,yes,2,0,0,0,0,6,0,2,0,0,0,0,0,0,0,12,0,0,0,0,0,7,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",47,NA,3,0.0625,yes,0,0,0,0,0,13,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0
+2022-10-11,Wizard Islet,exposed,Ghost shrimp,"megan, charly, petar, tom, madeleine, zack",47,NA,3.5,0.0625,yes,1,0,0,0,0,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",2,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",2,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",2,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",2,NA,1.5,0.0625,yes,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",2,NA,2,0.0625,yes,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",2,NA,2.5,0.0625,yes,0,0,0,0,0,5,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",2,NA,3,0.0625,yes,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",2,NA,3.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",4,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",4,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",4,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",4,NA,1.5,0.0625,yes,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",4,NA,2,0.0625,yes,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",4,NA,2.5,0.0625,yes,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",4,NA,3,0.0625,yes,0,0,0,0,0,5,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",4,NA,3.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",5,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",5,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",5,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",5,NA,1.5,0.0625,yes,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",5,NA,2,0.0625,yes,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",5,NA,2.5,0.0625,yes,0,0,0,0,0,5,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",5,NA,3,0.0625,yes,0,0,0,0,0,5,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",5,NA,3.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",8,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",8,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",8,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",8,NA,1.5,0.0625,yes,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",8,NA,2,0.0625,yes,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",8,NA,2.5,0.0625,yes,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",8,NA,3,0.0625,yes,0,0,0,0,0,25,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",8,NA,3.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",11,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",11,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",11,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",11,NA,1.5,0.0625,yes,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",11,NA,2,0.0625,yes,0,0,4,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",11,NA,2.5,0.0625,yes,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",11,NA,3,0.0625,yes,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",11,NA,3.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",15,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",15,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",15,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",15,NA,1.5,0.0625,yes,0,0,6,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",15,NA,2,0.0625,yes,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",15,NA,2.5,0.0625,yes,0,0,0,0,0,10,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",15,NA,3,0.0625,yes,0,0,0,0,0,80,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",15,NA,3.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",17,NA,0.2,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",17,NA,0.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",17,NA,1,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",17,NA,1.5,0.0625,yes,0,0,8,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",17,NA,2,0.0625,yes,0,0,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",17,NA,2.5,0.0625,yes,0,0,0,0,0,90,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",17,NA,3,0.0625,yes,0,0,0,0,0,80,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,anemones,"Nick, Reilly, Ethan, Kaya, Taylor, MJ",17,NA,3.5,0.0625,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",34,NA,0.2,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",34,NA,0.5,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",34,NA,1,0.0625,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",34,NA,1.5,0.0625,1,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",34,NA,2,0.0625,1,0,0,2,0,0,40,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",34,NA,2.5,0.0625,1,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",34,NA,3,0.0625,1,0,0,0,0,0,40,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",34,NA,3.5,0.0625,1,0,0,0,0,0,0.5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",35,NA,0.2,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",35,NA,0.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",35,NA,1,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",35,NA,1.5,0.0625,1,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",35,NA,2,0.0625,1,0,0,20,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",35,NA,2.5,0.0625,1,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",35,NA,3,0.0625,1,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",35,NA,3.5,0.0625,1,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",37,NA,0.2,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",37,NA,0.5,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",37,NA,1,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",37,NA,1.5,0.0625,1,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",37,NA,2,0.0625,1,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",37,NA,2.5,0.0625,1,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",37,NA,3,0.0625,1,0,0,0,0,0,45,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",37,NA,3.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",40,NA,0.2,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",40,NA,0.5,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",40,NA,1,0.0625,1,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",40,NA,1.5,0.0625,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",40,NA,2,0.0625,1,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",40,NA,2.5,0.0625,1,0,0,20,10,0,36,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",40,NA,3,0.0625,1,0,0,0,0,16,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",40,NA,3.5,0.0625,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",46,NA,0.2,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",46,NA,0.5,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",46,NA,1,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",46,NA,1.5,0.0625,1,0,0,30,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",46,NA,2,0.0625,1,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",46,NA,2.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",46,NA,3,0.0625,1,0,0,0,0,0,40,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",46,NA,3.5,0.0625,1,0,0,0,0,0,24,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",47,NA,0.2,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",47,NA,0.5,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",47,NA,1,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",47,NA,1.5,0.0625,1,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",47,NA,2,0.0625,1,0,0,0,0,0,70,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",47,NA,2.5,0.0625,1,0,0,0,0,0,95,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",47,NA,3,0.0625,1,0,0,0,0,0,20,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",47,NA,3.5,0.0625,1,0,0,0,0,0,3,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",48,NA,0.2,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",48,NA,0.5,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",48,NA,1,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",48,NA,1.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",48,NA,2,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",48,NA,2.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",48,NA,3,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-10-11,Wizard Islet,sheltered,nudibranchs,"brittany, maeve, rob, vicky, ryan, kayla",48,NA,3.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",1,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",1,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",1,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",1,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",1,NA,2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",1,NA,2.5,0.0625,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,15,0,0,0,10,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",1,NA,3,0.0625,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",1,NA,3.5,0.0625,,0,0,0,0,0,5,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",5,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",5,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",5,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",5,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",5,NA,2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",5,NA,2.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",5,NA,3,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,40,0,0,0,0,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",5,NA,3.5,0.0625,,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",7,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",7,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",7,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",7,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",7,NA,2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",7,NA,2.5,0.0625,,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,15,0,90,0,0,0,50,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",7,NA,3,0.0625,,10,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",7,NA,3.5,0.0625,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",12,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",12,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",12,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",12,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",12,NA,2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",12,NA,2.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,90,0,0,0,35,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",12,NA,3,0.0625,,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,10,0,15,0,0,0,20,0
+2023-10-11,Wizard_Islet,exposed,Urchins,"Amelia, Sebastien, Quin, Juliane",12,NA,3.5,0.0625,,0,0,0,0,0,10,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",18,NA,0.2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",18,NA,0.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",18,NA,1,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",18,NA,1.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",18,NA,2,0.0625,1,2,0,0,28,0,0,0,3,0,0,0,0,0,0,0,8,0,3,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",18,NA,2.5,0.0625,1,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,50,0,20,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",18,NA,3,0.0625,1,0,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",18,NA,3.5,0.0625,1,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",20,NA,0.2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",20,NA,0.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",20,NA,1,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",20,NA,1.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",20,NA,2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",20,NA,2.5,0.0625,1,0,0,0.5,0,0,0,0,2,0,0,0,0,0,0,0,10,0,35,0,0,0,4,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",20,NA,3,0.0625,1,0,0,2,0,0,0,0,85,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",20,NA,3.5,0.0625,1,5,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",27,NA,0.2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",27,NA,0.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",27,NA,1,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",27,NA,1.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",27,NA,2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",27,NA,2.5,0.0625,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,10,0,90,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",27,NA,3,0.0625,1,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",27,NA,3.5,0.0625,1,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",29,NA,0.2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",29,NA,0.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",29,NA,1,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",29,NA,1.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",29,NA,2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",29,NA,2.5,0.0625,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,80,0,24,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",29,NA,3,0.0625,1,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,exposed,ghost_shrimp,"Reese,Alec,Aidan,Sophia",29,NA,3.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",36,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",36,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",36,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",36,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",36,NA,2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",36,NA,2.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",36,NA,3,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,20,0,75,0,0,0,0,0
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",36,NA,3.5,0.0625,,2,0,0,0,0,35,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",39,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",39,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",39,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",39,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",39,NA,2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",39,NA,2.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",39,NA,3,0.0625,,5,0,1,0,0,15,0,0,0,0,0,0,0,0,0,0,5,50,0,0,0,5,0
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",39,NA,3.5,0.0625,,15,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",44,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",44,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",44,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",44,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",44,NA,2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",44,NA,2.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",44,NA,3,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,15,0,60,0,0,0,3,0
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",44,NA,3.5,0.0625,,0,0,0,0,0,60,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",48,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",48,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",48,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",48,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",48,NA,2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",48,NA,2.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",48,NA,3,0.0625,,2,0,5,0,0,25,0,2,0,0,0,0,0,0,0,10,0,20,0,0,0,25,0
+2023-10-11,Wizard_Islet,exposed,Brittle Stars,"Isabel, Morgan, Andy, Kaitlyn",48,NA,3.5,0.0625,,0,0,0,0,0,80,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",12,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",12,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",12,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",12,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",12,NA,2,0.0625,,0,0,2,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",12,NA,2.5,0.0625,,5,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",12,NA,3,0.0625,,0.05,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",12,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",18,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",18,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",18,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",18,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",18,NA,2,0.0625,,0,0.25,2,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",18,NA,2.5,0.0625,,15,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0.02,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",18,NA,3,0.0625,,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",18,NA,3.5,0.0625,,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",20,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",20,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",20,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",20,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",20,NA,2,0.0625,,0,0,4,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",20,NA,2.5,0.0625,,20,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0.01,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",20,NA,3,0.0625,,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",20,NA,3.5,0.0625,,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",21,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",21,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",21,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",21,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",21,NA,2,0.0625,,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",21,NA,2.5,0.0625,,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0.02,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",21,NA,3,0.0625,,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0.025,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,anemones,"Anna, Arthur, Deanna, Sole",21,NA,3.5,0.0625,,0,0,0,0,0,0,0,0.025,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,29,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,29,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,29,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,29,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,29,NA,2,0.0625,,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,29,NA,2.5,0.0625,,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,29,NA,3,0.0625,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,29,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,30,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,30,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,30,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,30,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,30,NA,2,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,30,NA,2.5,0.0625,,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,30,NA,3,0.0625,,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,30,NA,3.5,0.0625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,36,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,36,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,36,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,36,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,36,NA,2,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,36,NA,2.5,0.0625,,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,36,NA,3,0.0625,,0,0,0,0,0,30,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,36,NA,3.5,0.0625,,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,38,NA,0.2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,38,NA,0.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,38,NA,1,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,38,NA,1.5,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,38,NA,2,0.0625,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,38,NA,2.5,0.0625,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,38,NA,3,0.0625,,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard Islet,sheltered,Grunt Sculpins,MIranda_Hana_Sarah_Rory,38,NA,3.5,0.0625,,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,39,NA,0.2,0.0625,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,39,NA,0.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,39,NA,1,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,39,NA,1.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,39,NA,2,0.0625,1,0,0,8,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,39,NA,2.5,0.0625,1,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,39,NA,3,0.0625,1,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,39,NA,3.5,0.0625,1,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,42,NA,0.2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,42,NA,0.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,42,NA,1,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,42,NA,1.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,42,NA,2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,42,NA,2.5,0.0625,1,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,42,NA,3,0.0625,1,0,0,0,0,0,15,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,42,NA,3.5,0.0625,1,0,0,0,0,0,50,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,43,NA,0.2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,43,NA,0.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,43,NA,1,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,43,NA,1.5,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,43,NA,2,0.0625,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,43,NA,2.5,0.0625,1,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,43,NA,3,0.0625,1,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-10-11,Wizard_Islet,sheltered,THAT,Taylor_Hudson_Ashfaque_Tanner,43,NA,3.5,0.0625,1,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,1,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,1,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,1,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,1,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,1,2,0.0625,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,1,2.5,0.0625,1,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,1,3,0.0625,1,10,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,1,3.5,0.0625,1,5,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,2,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,2,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,2,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,2,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,2,2,0.0625,1,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,2,2.5,0.0625,1,5,0,0,0,0,5,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,2,3,0.0625,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,2,3.5,0.0625,1,5,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,3,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,3,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,3,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,3,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,3,2,0.0625,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,3,2.5,0.0625,1,5,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,3,3,0.0625,1,5,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,3,3.5,0.0625,1,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,4,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,4,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,4,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,4,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,4,2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,4,2.5,0.0625,1,5,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,4,3,0.0625,1,5,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,dusty quads,"Murrin, Abba, Juno",NA,4,3.5,0.0625,1,5,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,6,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,6,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,6,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,6,1.5,0.0625,0,0,0,15,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,6,2,0.0625,0,0,0,4,10,0,60,0,30,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,6,2.5,0.0625,0,0,0,1,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,6,3,0.0625,0,20,0,0,0,0,90,0,80,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,6,3.5,0.0625,0,0,0,0,0,0,97,0,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,7,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,7,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,7,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,7,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,7,2,0.0625,0,0,0,5,0,0,15,0,0,0,0,0,0,0,0,0,80,0,5,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,7,2.5,0.0625,0,0,0,0,0,0,40,0,32,0,0,0,0,0,0,0,3,0,50,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,7,3,0.0625,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,30,0,25,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,7,3.5,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,8,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,8,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,8,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,8,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,8,2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,8,2.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,8,3,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,maddy_luca,"Maddy, Luca",NA,8,3.5,0.0625,0,0,0,0,0,0,70,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,9,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,9,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,9,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,9,1.5,0.0625,1,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,9,2,0.0625,1,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,9,2.5,0.0625,1,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,9,3,0.0625,1,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,9,3.5,0.0625,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,10,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,10,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,10,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,10,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,10,2,0.0625,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,10,2.5,0.0625,1,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,10,3,0.0625,1,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,10,3.5,0.0625,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,11,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,11,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,11,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,11,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,11,2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,11,2.5,0.0625,1,0,0,15,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,11,3,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,11,3.5,0.0625,1,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,12,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,12,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,12,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,12,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,12,2,0.0625,1,0,0,0,10,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,12,2.5,0.0625,1,0,0,0,0,0,23.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,12,3,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Mussel Flex Squad,"Alexis, Jemma, Eli",NA,12,3.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,1,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,1,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,1,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,1,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,1,2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,1,2.5,0.0625,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,60,0,0,0,5,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,1,3,0.0625,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,86,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,1,3.5,0.0625,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,2,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,2,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,2,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,2,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,2,2,0.0625,1,NA,0,0,0.5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0.75,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,2,2.5,0.0625,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,11,0,0,0,53,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,2,3,0.0625,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,40,0,0,0,60,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,2,3.5,0.0625,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,2,0,0,0,26,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,3,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,3,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,3,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,3,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,3,2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,3,2.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,3,3,0.0625,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,76,0,0,0,14,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,3,3.5,0.0625,1,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,4,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,4,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,4,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,4,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,4,2,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,85,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,4,2.5,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,84,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,4,3,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,45,0
+2024-10-17,Wizard Islet,exposed,QuadRATS,"Caelin, Bri, Erika, Clara",NA,4,3.5,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,9,3.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,9,3,0.0625,1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,77,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,9,2.5,0.0625,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,20,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,9,2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,9,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,9,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,9,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,9,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,10,3.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,10,3,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,10,2.5,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,10,2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,10,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,10,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,10,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,10,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,11,3.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,11,3,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,11,2.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,100,0,0,0,50,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,11,2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,11,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,11,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,11,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,11,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,12,3.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,12,3,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,80,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,12,2.5,0.0625,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,20,0,0,0,75,0
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,12,2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,12,1.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,12,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,12,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,exposed,radical_quadraticals,"Ally, Victoria, Linnea, Elliott",NA,12,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,5,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,5,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,5,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,5,1.5,0.0625,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,5,2,0.0625,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,9
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,5,2.5,0.0625,0,0,0,7,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,5,3,0.0625,0,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,5,3.5,0.0625,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,6,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,6,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,6,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,6,1.5,0.0625,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,6,2,0.0625,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,2
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,6,2.5,0.0625,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,6,3,0.0625,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,6,3.5,0.0625,0,6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,7,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,7,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,7,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,7,1.5,0.0625,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,2
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,7,2,0.0625,0,0,0,5,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,7,2.5,0.0625,0,2,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,7,3,0.0625,0,4,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,7,3.5,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,8,0.2,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,8,0.5,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,8,1,0.0625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,8,1.5,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,8,2,0.0625,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,8,2.5,0.0625,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,8,3,0.0625,0,1,0,0,0,0,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024-10-17,Wizard Islet,sheltered,Sparkle Dust Glitter Bomb,"Sarah, Hanna, Jenna",NA,8,3.5,0.0625,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
